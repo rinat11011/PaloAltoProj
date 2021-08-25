@@ -1,0 +1,4 @@
+{"message": "Agent reported an alert", "type": "AGENT", "severity": "HIGH", "id": "1"}
+{"message": "Server restarted due to an error", "type": "SERVER", "severity": "LOW", "id": "2"}
+{"message": "Agent is operational", "type": "AGENT", "severity": "MEDIUM", "id": "4"}
+{"message": "Agent policy updated", "type": "AGENT", "severity": "LOW", "id": "5"}

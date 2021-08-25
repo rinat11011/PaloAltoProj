@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {"field": "id", "operation": "eq", "value": "2"},
+        {"field": "type", "operation": "eq", "value": "AGENT"}
+    ]
+}
+
+
